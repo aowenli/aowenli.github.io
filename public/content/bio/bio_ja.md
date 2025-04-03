@@ -1,3 +1,3 @@
 ## 研究内容
 
-私の研究は透過電子顕微鏡であああすることです。
+My research interest is on developing advanced scanning transmission electron microscopy (STEM) imaging and spectroscopy techniques and applying the techniques to reveal the structure-property relationship of functional materials.
