@@ -1,0 +1,30 @@
+[
+  {
+    "id": "presentation-1",
+    "title": "Systematic Absences of Optical Phonon Signals in Momentum-Resolved Vibrational Spectroscopy",
+    "titleJa": "Systematic Absences of Optical Phonon Signals in Momentum-Resolved Vibrational Spectroscopy",
+    "speakers": "",
+    "speakersJa": "",
+    "conference": "MM2024",
+    "conferenceJa": "MM2024",
+    "date": "2024-08",
+    "year": "2024",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-2",
+    "title": "Improving the detection sensitivity of extended energy-loss fine structure spectroscopy in scanning transmission electron microscopy to the single-atom level",
+    "titleJa": "Improving the detection sensitivity of extended energy-loss fine structure spectroscopy in scanning transmission electron microscopy to the single-atom level",
+    "speakers": "",
+    "speakersJa": "",
+    "conference": "IMC20",
+    "conferenceJa": "IMC20",
+    "date": "2023-09",
+    "year": "2023",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  }
+]

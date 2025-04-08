@@ -1,0 +1,32 @@
+[
+  {
+    "id": "career-1",
+    "position": "Bachelor in chemistry",
+    "organization": "University of Science and Technology of China",
+    "location": "Hefei, China",
+    "startDate": "2014",
+    "endDate": "2018",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-2",
+    "position": "Ph.D. in physics",
+    "organization": "University of Chinese Academy of Sciences",
+    "location": "Beijing, China",
+    "startDate": "2018",
+    "endDate": "2024",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-3",
+    "position": "Postdoctoral Researcher",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2024",
+    "endDate": null,
+    "description": "",
+    "type": "work"
+  }
+]
